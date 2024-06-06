@@ -130,3 +130,8 @@ In the current released model, the only token-level control units are [laugh], [
 ---
 ## Special Appreciation
 - [wlu-audio lab](https://audio.westlake.edu.cn/) for early algorithm experiments.
+
+
+
+## 安装依赖前需要安装以下依赖
+brew install openfst
